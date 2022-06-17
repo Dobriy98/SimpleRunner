@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5610a64c9fd70486d9bab02bc6d9d057, type: 3}
+  m_Name: Spawnable Factory
+  m_EditorClassIdentifier: 
+  coinPrefab: {fileID: 5939395528217388118, guid: bb38d39b08a8342ac851bb2e47a87f86, type: 3}
+  obstacleCubePrefab: {fileID: 6199294883802856705, guid: 7fe2b57281b474b818c1f4ae8127f528, type: 3}
